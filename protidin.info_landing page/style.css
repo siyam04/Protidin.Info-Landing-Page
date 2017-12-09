@@ -1,0 +1,349 @@
+body
+{ /* Background */
+	background-color: powderblue;
+}
+
+#wrapper
+{ /* Packet Complete Code */
+	width: 1200px;
+	margin: 5px auto;
+}
+
+#header
+{ /* Orange Block */
+	background-color:#FF6D00;
+	padding:6px;
+	padding-bottom: 30px;
+}
+
+#header img
+{ /* LOGO */
+	padding-top: 8px;
+	padding-left: 5px;
+}
+
+#header h3
+{/* জ্ঞ্যান চর্চা চলুক অবিরাম, প্রতিদিন নিজের ভাষায় */
+	color: white;
+	padding-top: 10px;
+}
+
+#header form
+{/* Search Bar */
+	float: right;
+	padding-top: 10px;
+	padding-right: 5px;
+}
+
+#nav
+{/* White Menu Bar */
+	background-color:white;
+	height:65px;
+    border-top:5px solid white;
+	padding-bottom: 5px;
+}
+
+#nav ul
+{/* Dot Customization of UL */
+	background-color: dimgray;
+	list-style-type:none;
+    text-align: left;
+}
+
+#nav ul li
+{/* Menu Left Alignment */
+	float:left;
+}
+
+#nav ul li a
+{/* Menu Customization removing Link */
+	text-decoration:none;
+	color:black;
+	display:block;
+	padding:8px ;
+	padding-right: 50px;
+	padding-left: 65px;
+}
+
+#sec1
+{/* section 1 block */
+	background-color: lightgray;
+	float: left;
+	padding-right: 10px;
+	padding-bottom: 29px;
+}
+#sidebar
+{/* Sidebar Block */
+	background-color: darkgrey;
+	float: right;
+	padding-bottom: 1px;
+}
+
+#tag1
+{/*ট্রেন্ডিং ভিডিও */
+	font-size: 20px;
+	color: white;
+	background-color: dimgray;
+	padding-left: 8px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#det1
+{/*image details 1 */
+	color: black;
+	padding-left: 10px;
+}
+
+#img1
+{/* image 1 */
+	padding-left: 10px;
+}
+
+#tag2
+{/* নতুন প্রযুক্তি */
+	font-size: 20px;
+	color: white;
+	background-color: dimgray;
+	padding-left: 8px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#det2
+{/*image details 2 */
+	color: black;
+	padding-left: 10px;
+}
+
+#img2
+{/* image 2 */
+	padding-left: 10px;
+}
+
+#tag3
+{/* লেটেস্ট কম্পিউটার  */
+	font-size: 20px;
+	color: white;
+	background-color: dimgray;
+	padding-left: 8px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#det3
+{/*image details 3 */
+	color: black;
+	padding-left: 10px;
+}
+
+#img3
+{/* image 3 */
+	padding-left: 10px;
+}
+
+#tag4
+{/* নতুন স্মার্টফোন  */
+	font-size: 20px;
+	color: white;
+	background-color: dimgray;
+	padding-left: 8px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#det4
+{/*image details 4 */
+	color: black;
+	padding-left: 10px;
+}
+
+#img4
+{/* image 4 */
+	padding-left: 10px;
+}
+
+#sideTag1
+{/* সাম্প্রতিক ব্লগ */
+
+	font-size: 20px;
+	color: white;
+	padding-left: 120px;
+	background-color: #FF6D00;
+	padding-bottom: 10px;
+
+}
+#content1 img
+{/* blog img 1 */
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+#content1 p
+{/* blog para 1 */
+	padding-left: 43px;
+	padding-right: 43px;
+}
+#content1 em
+{/* blog em 1 */
+	color: black;
+}
+
+#content2 img
+{/* blog img 1 */
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+#content2 p
+{/* blog para 1 */
+	padding-left: 43px;
+	padding-right: 43px;
+}
+#content2 em
+{/* blog em 1 */
+	color: black;
+}
+#content3 img
+{/* blog img 1 */
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+#content3 p
+{/* blog para 1 */
+	padding-left: 43px;
+	padding-right: 43px;
+}
+#content3 em
+{/* blog em 1 */
+	color: black;
+}
+#content4 img
+{/* blog img 1 */
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+#content4 p
+{/* blog para 1 */
+	padding-left: 43px;
+	padding-right: 43px;
+}
+#content4 em
+{/* blog em 1 */
+	color: black;
+}
+#content5 img
+{/* blog img 1 */
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+#content5 p
+{/* blog para 1 */
+	padding-left: 43px;
+	padding-right: 43px;
+}
+#content5 em
+{/* blog em 1 */
+	color: black;
+}
+#content6 img
+{/* blog img 1 */
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+#content6 p
+{/* blog para 1 */
+	padding-left: 43px;
+	padding-right: 43px;
+}
+#content6 em
+{/* blog em 1 */
+	color: black;
+}
+#content7 img
+{/* blog img 1 */
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+#content7 p
+{/* blog para 1 */
+	padding-left: 43px;
+	padding-right: 43px;
+}
+#content7 em
+{/* blog em 1 */
+	color: black;
+}
+#content8 img
+{/* blog img 1 */
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+#content8 p
+{/* blog para 1 */
+	padding-left: 43px;
+	padding-right: 43px;
+}
+#content8 em
+{/* blog em 1 */
+	color: black;
+}
+#content9 img
+{/* blog img 1 */
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+#content9 p
+{/* blog para 1 */
+	padding-left: 43px;
+	padding-right: 43px;
+}
+#content9 em
+{/* blog em 1 */
+	color: black;
+}
+
+#footer
+{/* block */
+	background-color: black;
+	color: white;
+}
+#logo img
+{/* logo */
+	padding-right: 500px;
+	padding-left: 10px;
+	padding-top: 20px;
+}
+#logo p
+{/* para */
+	float: right;
+	padding-right: 10px;
+	padding-top: 10px;
+	font-size: 15px;
+}
+h1
+{/* heading */
+
+	padding-left: 380px;
+	padding-bottom: 30px;
+	font-size: 22px;
+	color: #FF6D00;
+}
+
+#copyrite p
+{/* copyrite */
+	padding-left: 440px;
+	padding-bottom: 2px;
+	font-size: 15px;
+}
